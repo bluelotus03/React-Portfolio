@@ -1,0 +1,72 @@
+:root {
+  --purple-lightest: #000000;
+  --purple-light: #c2bfef;
+  --purple-regular: #8a4bff;
+  --purple-dark: #2d2b3d;
+  --light-blue: #9e6bfd;
+
+  --font-xsmall: 0.8rem;
+  --font-small: 0.9rem;
+  --font-regular: 1rem;
+  --font-large: 1.2rem;
+  --font-xlarge: 1.5rem;
+}
+
+body,
+html {
+  margin: 0;
+  font-family: Roboto;
+  font-size: 100%;
+  width: 100vw;
+  height: 100vh;
+  padding: 0;
+  scroll-behavior: smooth;
+  background-color: rgb(0, 0, 0);
+  overflow-x: hidden;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+  font-family: Noto Sans;
+  margin: 0;
+}
+
+p {
+  margin: 0;
+}
+
+@media (max-width: 730px) {
+  html {
+    font-size: 74%;
+  }
+}
+
+@media (max-width: 575px) {
+  html {
+    font-size: 70%;
+  }
+}
+
+@media (max-width: 505px) {
+  html {
+    font-size: 60%;
+  }
+}
+
+@media (max-width: 445px) {
+  html {
+    font-size: 50%;
+  }
+}
+
+@media (max-width: 375px) {
+  .accordion h3 {
+    font-size: 0.9rem;
+  }
+  .accordion img {
+    height: 1.5rem;
+  }
+}
