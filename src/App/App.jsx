@@ -38,8 +38,8 @@ export function App() {
               My name is Ashley Harmon, and I'm a MSIT student at UNCC. I love
               to create games and explore new topics. I am also the Web & Media
               Chair for Girls Who Code at UNC Charlotte. I like to create
-              technical workshops for us all to learn together. Checkout some of
-              these workshops and my project demos below!
+              technical workshops for us all to learn together. Check out these
+              workshops and some of my project demos below!
             </p>
             <br />
             <div className="social">
@@ -216,7 +216,7 @@ export function App() {
               href="https://docs.google.com/document/d/1fUOufYgRbcGCmlwe0PDt1L7SaFI-rOlK-KjRlsTU5cs/edit"
               rel="noreferrer"
               target="_blank"
-              class="no-line-link"
+              className="no-line-link"
             >
               <strong>here</strong>
             </a>{" "}
@@ -225,7 +225,7 @@ export function App() {
               href="https://drive.google.com/file/d/1gOFFOHQWLQels2c5wtD1bt283hHhj6Z1/view?usp=sharing"
               rel="noreferrer"
               target="_blank"
-              class="no-line-link"
+              className="no-line-link"
             >
               <strong>research paper</strong>
             </a>{" "}
@@ -256,9 +256,8 @@ export function App() {
             <ExperienceAccordion title="Figma Workshop: The Basics">
               This is a workshop from Girls Who Code at UNC Charlotte where we
               walked through learning the basics of Figma and creating a simple
-              website prototype. This workshop is paced for those who want to
-              follow along. Feel free to speed things up or skip around with the
-              time stamps below.
+              website prototype. We explore topics such as text, shapes, layers,
+              using plugins, creating effects, and more!
             </ExperienceAccordion>
             <ExperienceAccordion title="Create an Online Portfolio">
               This is a workshop where we learned to create an online portfolio

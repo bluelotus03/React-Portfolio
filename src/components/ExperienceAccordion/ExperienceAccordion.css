@@ -3,10 +3,10 @@
   margin: auto;
   height: 2.5rem;
   transition: height ease-out 200ms;
-  background-color: var(--purple-dark);
+  background-color: var(--blue-dark);
   color: white;
   border-radius: 10px 10px;
-  border-bottom: 2px solid var(--purple-regular);
+  border-bottom: 2px solid var(--blue-regular);
   overflow: hidden;
 }
 

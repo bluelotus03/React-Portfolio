@@ -36,7 +36,7 @@ main {
 
 #landing .headline > a > span {
   font-weight: bold;
-  color: var(--purple-regular);
+  color: var(--blue-regular);
 }
 
 #landing .headline a {
@@ -71,7 +71,7 @@ article.about-me {
 .social-container li a:link,
 .social-container li a:visited {
   text-decoration: none;
-  color: var(--purple-regular);
+  color: var(--blue-regular);
   font-size: 1.5rem;
 }
 
@@ -93,7 +93,7 @@ article.about-me {
 }
 
 .blue-box {
-  background-color: var(--light-blue);
+  background-color: var(--blue-light);
   width: 200vw;
   position: absolute;
   transform: translateX(-50%);

@@ -1,5 +1,5 @@
 header {
-  background-color: var(--purple-lightest);
+  background-color: var(--blue-lightest);
   padding: 15px 0;
   position: fixed;
   inset: 0 0 auto 0;
@@ -17,7 +17,7 @@ header {
   font-weight: bold;
   font-size: var(--font-large);
   font-family: Noto Sans;
-  color: #8a4bff;
+  color: var(--blue-regular);
 }
 
 .navLinks {
@@ -28,11 +28,11 @@ header {
 
 .navLinks > a {
   text-decoration: none;
-  color: #9c6cf5;
+  color: var(--blue-regular);
   font-weight: 500;
 }
 
 .no-line-link {
   text-decoration: none;
-  color: #8a4bff;
+  color: var(--blue-regular);
 }

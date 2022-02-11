@@ -1,9 +1,8 @@
 :root {
-  --purple-lightest: #000000;
-  --purple-light: #c2bfef;
-  --purple-regular: #8a4bff;
-  --purple-dark: #2d2b3d;
-  --light-blue: #9e6bfd;
+  --blue-lightest: hsl(0, 0%, 0%);
+  --blue-regular: #38b6ff;
+  --blue-dark: #2d2b3d;
+  --blue-light: #3db6fc;
 
   --font-xsmall: 0.8rem;
   --font-small: 0.9rem;
